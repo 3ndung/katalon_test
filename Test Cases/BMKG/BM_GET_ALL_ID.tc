@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BM_GET_ALL_ID</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b78718e8-78ba-44f1-bc6a-f3b88ee2a9d9</testCaseGuid>
+</TestCaseEntity>

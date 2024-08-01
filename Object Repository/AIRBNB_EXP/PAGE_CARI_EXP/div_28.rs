@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_28</name>
+   <tag></tag>
+   <elementGuidId>2e75517e-abff-41a2-b6d1-fc88f2b76e58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(5) > td._sl5yz7r > div._1xnkk5ra.notranslate</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search-tabpanel']/div/div[3]/div/div/div/div/div/div/div/div/div/div/div[2]/div[2]/div/div[2]/div/table/tbody/tr[5]/td/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;28, Sunday, July 2024&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>35e8d686-97d7-4ff4-8878-857c36313eda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_1xnkk5ra notranslate</value>
+      <webElementGuid>650b59f7-c4a3-40cf-91ee-4b7da088f789</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>calendar-day-07/28/2024</value>
+      <webElementGuid>51770ddc-edb9-4f5c-8cf3-0a9fa5406f8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-is-day-blocked</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>b582f0e9-3ce7-43e4-8ee4-8f436941cefd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>28</value>
+      <webElementGuid>38eba513-e3c2-4c29-b5b6-4c184aaddaa6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search-tabpanel&quot;)/div[@class=&quot;ir2ixub atm_9s_1txwivl atm_h_1h6ojuz atm_am_163v1yp atm_e2_1osqo2v atm_jb_idpfg4 atm_mj_1wugsn5 dir dir-ltr&quot;]/div[@class=&quot;c111bvlt atm_am_16wc86f atm_9s_1txwivl atm_1eltean_1osqo2v dir dir-ltr&quot;]/div[1]/div[1]/div[1]/div[1]/div[@class=&quot;coy2xq9 atm_mk_stnw88 atm_tk_1osqo2v atm_wq_kb7nvz atm_26_1p8m8iw atm_5j_1vi7ecw atm_70_z3lat3 atm_gp_1fwxnve atm_iy_1xor2vp atm_l0_15vqwwr atm_l1_1wugsn5 atm_l2_1f51e7f atm_lb_4n2dxu atm_lh_swyrjs atm_5sxl3l_16m390d__1v156lz favrsqg atm_n3_idpfg4 l1hvhoo atm_fq_idpfg4 dir dir-ltr&quot;]/div[@class=&quot;dvp1orm atm_9s_1txwivl atm_h_1h6ojuz atm_fc_1h6ojuz atm_l8_10us9ju dir dir-ltr&quot;]/div[@class=&quot;d1hw4v9n atm_e2_1osqo2v atm_j6_1665v6k dir dir-ltr&quot;]/div[@class=&quot;_g2s11rv&quot;]/div[1]/div[1]/div[@class=&quot;_14676s3&quot;]/div[@class=&quot;_1foj6yps&quot;]/div[@class=&quot;_2hyui6e&quot;]/div[@class=&quot;_1lds9wb&quot;]/div[@class=&quot;_ytfarf&quot;]/table[@class=&quot;_cvkwaj&quot;]/tbody[1]/tr[5]/td[@class=&quot;_sl5yz7r&quot;]/div[@class=&quot;_1xnkk5ra notranslate&quot;]</value>
+      <webElementGuid>0606d51a-4d43-4914-95c4-398203fea73b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search-tabpanel']/div/div[3]/div/div/div/div/div/div/div/div/div/div/div[2]/div[2]/div/div[2]/div/table/tbody/tr[5]/td/div</value>
+      <webElementGuid>79c60325-4407-4635-856a-be940e46f898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='July 2024'])[1]/following::div[28]</value>
+      <webElementGuid>3438870f-44cf-4233-b423-c75795d058ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='June 2024'])[1]/following::div[61]</value>
+      <webElementGuid>874f763c-174a-49ec-9e24-43c96d1e9bc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='August 2024'])[1]/preceding::div[4]</value>
+      <webElementGuid>3a4ff412-8b84-4d00-9b72-4b33c3e7cecd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='September 2024'])[1]/preceding::div[38]</value>
+      <webElementGuid>0597c3f7-eac3-42b4-8549-a55f0a6094c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/table/tbody/tr[5]/td/div</value>
+      <webElementGuid>0d501690-5905-48c4-8334-04e749d00210</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '28' or . = '28')]</value>
+      <webElementGuid>61814e8a-bb36-4ebf-a0d6-0b40b53cfa22</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

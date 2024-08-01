@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>FInd UNI in Indonesia</description>
+   <name>UNI_01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f892f955-0576-463b-b645-bba5c0ae2188</testCaseGuid>
+</TestCaseEntity>

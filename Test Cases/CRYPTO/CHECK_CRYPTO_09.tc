@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Empty File</description>
+   <name>CHECK_CRYPTO_09</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>687426ff-8498-4458-ace1-e765a0080800</testCaseGuid>
+</TestCaseEntity>

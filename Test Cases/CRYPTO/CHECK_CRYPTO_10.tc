@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>NEW VARIABLE</description>
+   <name>CHECK_CRYPTO_10</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>54f4ade8-dfca-45b1-ac5d-fb733a168cb3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is excute parameter from ARRAY</description>
+   <name>NAME_02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1267719b-eeb2-4a23-b7df-6b83704ebac6</testCaseGuid>
+</TestCaseEntity>

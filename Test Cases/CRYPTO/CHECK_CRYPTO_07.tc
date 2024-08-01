@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Historical Data Retrieval</description>
+   <name>CHECK_CRYPTO_07</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fad21465-7db2-422b-93fc-4c99142dd020</testCaseGuid>
+</TestCaseEntity>

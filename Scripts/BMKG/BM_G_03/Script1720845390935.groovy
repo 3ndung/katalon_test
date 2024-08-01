@@ -1,0 +1,49 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import groovy.xml.XmlSlurper
+
+// Send request and get the response
+def response = WS.sendRequest(findTestObject('BMKG'))
+def responseContent = response.getResponseText()
+
+// Parse the XML response
+def xmlResponse = new XmlSlurper().parseText(responseContent)
+
+// Extract all 'parameter' elements with id='weather'
+def weatherParameters = xmlResponse.forecast.area.parameter.findAll { it.@id == 'weather' }
+
+// Print the extracted weather parameters
+weatherParameters.each { param ->
+	println "Parameter ID: ${param.@id}"
+	param.timerange.each { timerange ->
+		println "  Timerange: ${timerange.@type} - ${timerange.@datetime} - ${timerange.value.text()}"
+	}
+}
+
+// Optional: Store the extracted weather parameters into a list or other data structure if needed
+def weatherParamList = weatherParameters.collect { param ->
+	[id: param.@id.toString(), timeranges: param.timerange.collect {
+		[type: it.@type.toString(), datetime: it.@datetime.toString(), value: it.value.text()]
+	}]
+}
+
+println "Weather Parameters List: ${weatherParamList}"

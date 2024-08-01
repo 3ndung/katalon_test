@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Respose_Time</description>
+   <name>200_04</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d4e05b97-fdb9-4750-8e59-c2ebc7d761f9</testCaseGuid>
+</TestCaseEntity>

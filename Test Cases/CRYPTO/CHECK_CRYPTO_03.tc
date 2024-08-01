@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Make a Try - Catch like if there is no Currency that ask</description>
+   <name>CHECK_CRYPTO_03</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8acf22ea-05b7-4495-8c46-4b883a644687</testCaseGuid>
+</TestCaseEntity>

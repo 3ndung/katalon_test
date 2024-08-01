@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EXPERIENCE_CITY_02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>acc7f5cb-bc1d-4133-b3e9-6a170cbfeac0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5200856b-f70b-48dc-b707-43eb6a090629</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8dd4d4dd-2b8c-4e5c-9e7b-950a3d080fd5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Singapore'</defaultValue>
+      <description></description>
+      <id>5200856b-f70b-48dc-b707-43eb6a090629</id>
+      <masked>false</masked>
+      <name>Tujuan</name>
+   </variable>
+   <variable>
+      <defaultValue>'experiences'</defaultValue>
+      <description></description>
+      <id>8dd4d4dd-2b8c-4e5c-9e7b-950a3d080fd5</id>
+      <masked>false</masked>
+      <name>Jumlah</name>
+   </variable>
+</TestCaseEntity>

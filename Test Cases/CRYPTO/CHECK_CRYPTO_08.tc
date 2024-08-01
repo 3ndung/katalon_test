@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case 9: Verify Error Handling for Invalid Endpoint</description>
+   <name>CHECK_CRYPTO_08</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>302ddc8b-55ea-439e-a46b-3c2ef04bd109</testCaseGuid>
+</TestCaseEntity>

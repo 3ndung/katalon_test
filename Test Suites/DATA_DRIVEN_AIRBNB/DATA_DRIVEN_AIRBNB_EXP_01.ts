@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DATA_DRIVEN_AIRBNB_EXP_01</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>6d98cf6c-6585-4db7-85b0-eafac8d4174e</testSuiteGuid>
+   <testCaseLink>
+      <guid>5d9787a7-1e91-47fd-be1e-7d6329c4dea6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AIRBNB_EXPERIENCE/EXPERIENCE_CITY_01</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>d6572fca-3668-45c4-91e5-477d2b1195d0</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/AIRBNB_DATA_DRIVEN/EXP_AIRBNB</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>d6572fca-3668-45c4-91e5-477d2b1195d0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Tujuan</value>
+         <variableId>b3f9f087-a879-4967-a002-9cc109f8be88</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d6572fca-3668-45c4-91e5-477d2b1195d0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Jumlah</value>
+         <variableId>f1029a3c-29f0-48e9-8f9a-d740dfd15356</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Alexa Pro (2022)  Fire TV</name>
+   <tag></tag>
+   <elementGuidId>0ec7efe6-5db4-42a6-841b-812e9d87327a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div._cDEzb_p13n-sc-css-line-clamp-3_g3dy1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='B09RX4JH3Q']/div/div/a/span/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#p13n-asin-index-0 a >> internal:has-text=&quot;Alexa対応音声認識リモコン Pro (2022年発売) | 対応する別売りのFire TV本体が必要です&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2c4d60ea-ce33-40e2-87d2-d9b3a53d4ce1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_cDEzb_p13n-sc-css-line-clamp-3_g3dy1</value>
+      <webElementGuid>76f16da6-f14b-4dab-9000-8bad68eae76c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alexa対応音声認識リモコン Pro (2022年発売) | 対応する別売りのFire TV本体が必要です</value>
+      <webElementGuid>523f3181-3e34-44d7-a5e6-25ddba0aa52f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;B09RX4JH3Q&quot;)/div[1]/div[1]/a[@class=&quot;a-link-normal&quot;]/span[1]/div[@class=&quot;_cDEzb_p13n-sc-css-line-clamp-3_g3dy1&quot;]</value>
+      <webElementGuid>1e785c1e-659e-4317-b2ec-d9d4371a6c9e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='B09RX4JH3Q']/div/div/a/span/div</value>
+      <webElementGuid>91a1fcd4-3a4a-427f-8b40-ad8e67aebebc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#1'])[1]/following::div[7]</value>
+      <webElementGuid>09434144-e5c7-439c-984c-ead77f83db18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Best Sellers in Remote Controls'])[1]/following::div[15]</value>
+      <webElementGuid>c9061d8a-4d63-46a2-bd30-289f48041eed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¥3,980'])[1]/preceding::div[3]</value>
+      <webElementGuid>a2fde1fe-4ed8-4a69-a9d1-f4439516d0b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#2'])[1]/preceding::div[5]</value>
+      <webElementGuid>7bb45e6b-ab65-4c66-8c31-5bda268f0c4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Alexa対応音声認識リモコン Pro (2022年発売) | 対応する別売りのFire TV本体が必要です']/parent::*</value>
+      <webElementGuid>2c94a8c6-96d8-406b-be63-dfa5d4eedbc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span/div</value>
+      <webElementGuid>170e2468-3546-4618-998e-ba5752e35ef4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Alexa対応音声認識リモコン Pro (2022年発売) | 対応する別売りのFire TV本体が必要です' or . = 'Alexa対応音声認識リモコン Pro (2022年発売) | 対応する別売りのFire TV本体が必要です')]</value>
+      <webElementGuid>7cb46e74-9af0-4292-b227-0e2c0b570da3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

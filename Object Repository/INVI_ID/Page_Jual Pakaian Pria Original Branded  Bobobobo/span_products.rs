@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_products</name>
+   <tag></tag>
+   <elementGuidId>caf87f98-7eb4-4d6f-988f-f37ae26b8323</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.boost-pfs-filter-total-product > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='shopify-section-template--16094672453820__collection']/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;products&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>771e46b0-862f-406d-8711-86d03aa43e7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> products</value>
+      <webElementGuid>40f0ce5d-55fd-4228-acd6-370f0595a8cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopify-section-template--16094672453820__collection&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;toolbar&quot;]/div[@class=&quot;boost-pfs-filter-total-product&quot;]/span[1]</value>
+      <webElementGuid>45464d7d-018b-42ea-8abf-4cb11a907ed7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='shopify-section-template--16094672453820__collection']/div/div/div/span</value>
+      <webElementGuid>5d82d2f5-9d6c-400f-8050-2e8669efcf04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check Out'])[1]/following::span[1]</value>
+      <webElementGuid>58393274-d73a-4629-860c-6283c7e3e31e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::span[3]</value>
+      <webElementGuid>3bcd5844-5aa0-48db-b9fc-cd88ba5d3c24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter By'])[1]/preceding::span[6]</value>
+      <webElementGuid>fa934f21-d34b-4424-9bb2-2b4656ec19c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='products']/parent::*</value>
+      <webElementGuid>e4e0b023-ac48-405a-a881-66b793050558</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/span</value>
+      <webElementGuid>81243ac2-0733-4332-9481-79b49b48d152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' products' or . = ' products')]</value>
+      <webElementGuid>bfa70a04-68af-466c-a032-f92274c15da4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

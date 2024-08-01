@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DATA_DRIVEN_02</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>ffeb64eb-b84f-46c8-ab02-a525b501af61</testSuiteGuid>
+   <testCaseLink>
+      <guid>369c98b9-68b2-4f75-a1d8-ddf3fd880fe3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AIR_BNB_DD/DATA_DRIVEN_02</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>f1d0c0df-23c7-4c9f-8d4c-0a471cd472a2</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/AIRBNB_DATA_DRIVEN/Cities</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>f1d0c0df-23c7-4c9f-8d4c-0a471cd472a2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>city</value>
+         <variableId>749daced-1e6b-4066-a500-74f128f949a6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f1d0c0df-23c7-4c9f-8d4c-0a471cd472a2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Result</value>
+         <variableId>6799426f-4598-48b3-b971-50fe58e82b4c</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

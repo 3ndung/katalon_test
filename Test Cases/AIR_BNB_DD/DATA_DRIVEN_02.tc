@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DATA_DRIVEN_02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2016d4f6-dec0-48c0-978b-d68fd3c9e590</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>749daced-1e6b-4066-a500-74f128f949a6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6799426f-4598-48b3-b971-50fe58e82b4c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Tokyo'</defaultValue>
+      <description></description>
+      <id>749daced-1e6b-4066-a500-74f128f949a6</id>
+      <masked>false</masked>
+      <name>city</name>
+   </variable>
+   <variable>
+      <defaultValue>'places in Tokyo'</defaultValue>
+      <description></description>
+      <id>6799426f-4598-48b3-b971-50fe58e82b4c</id>
+      <masked>false</masked>
+      <name>Result</name>
+   </variable>
+</TestCaseEntity>

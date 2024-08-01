@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Rep 200</description>
+   <name>200_R</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>17dfe581-f331-4f80-83a3-153e5335dd05</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BM_GET_01_FOR_DD</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6e7c74a2-9ff2-4dc7-9d87-9e7767e49615</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ffb99315-e5fa-4aa6-a5bd-bff0b8ee1605</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>501174</defaultValue>
+      <description></description>
+      <id>ffb99315-e5fa-4aa6-a5bd-bff0b8ee1605</id>
+      <masked>false</masked>
+      <name>areaID</name>
+   </variable>
+</TestCaseEntity>

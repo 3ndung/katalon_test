@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_All Clothing</name>
+   <tag></tag>
+   <elementGuidId>26c1de53-a847-44eb-b448-3c092c3c3906</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='shopify-section-header']/div/nav/div[2]/div/div[3]/div/div[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;All Clothing&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d146741b-8343-4a0b-b442-9a5f0a439f2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>2f921531-fada-49b3-96bd-01d5334458c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All Clothing</value>
+      <webElementGuid>0d28d1a6-099c-4c29-99e3-ef4a06528161</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopify-section-header&quot;)/div[@class=&quot;container&quot;]/nav[@class=&quot;menu main&quot;]/div[@class=&quot;item level-2&quot;]/div[@class=&quot;submenu depth-2&quot;]/div[@class=&quot;item level-1&quot;]/div[@class=&quot;submenu depth-1&quot;]/div[@class=&quot;item level-0&quot;]/a[@class=&quot;link&quot;]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>6924e636-d881-4157-b66b-ab00adbe9ff8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='shopify-section-header']/div/nav/div[2]/div/div[3]/div/div[2]/a/span</value>
+      <webElementGuid>37541f1d-2ec8-4c2f-bfdd-07b9f1c44973</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clothing'])[4]/following::span[1]</value>
+      <webElementGuid>983fc43f-dcf8-4a0d-8560-b66ea8a2ce23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clothing'])[3]/following::span[2]</value>
+      <webElementGuid>3a08e6fd-cbef-49ce-a7be-3b4e3482f570</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jackets'])[2]/preceding::span[1]</value>
+      <webElementGuid>27ccc6b0-83a7-4c94-ab8e-9f5b0d8c7fa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='T-shirts'])[2]/preceding::span[2]</value>
+      <webElementGuid>76fbb909-d89e-4bff-9e0c-9f9bcf6a1ce5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/div/div[2]/a/span</value>
+      <webElementGuid>c23aa919-b3b4-44d9-a0a3-c783d3d96374</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'All Clothing' or . = 'All Clothing')]</value>
+      <webElementGuid>da6c16fb-9a6a-4196-aba1-7c3a7aa90abb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

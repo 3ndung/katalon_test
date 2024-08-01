@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ADD NEGATIVE TEST IF THERE IS EXCLUDE ITEM</description>
+   <name>NAME_03</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b302976f-a22b-4a3e-80b1-e4de3e43ff09</testCaseGuid>
+</TestCaseEntity>

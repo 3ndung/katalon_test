@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BM_GET_ALL_ID_COORDINATE_AREA</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b2049a0c-9e4a-4853-94ae-a3566002ce73</testCaseGuid>
+</TestCaseEntity>

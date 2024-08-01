@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Applied two Condition</description>
+   <name>NAME_06</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0b00391f-21d0-4aaf-861c-9f3ecf265eb6</testCaseGuid>
+</TestCaseEntity>

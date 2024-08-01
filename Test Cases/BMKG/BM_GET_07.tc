@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case 5: Validate Temperature Parameter Values</description>
+   <name>BM_GET_07</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ea612c1f-644a-4bf1-8671-b094249d7fd9</testCaseGuid>
+</TestCaseEntity>

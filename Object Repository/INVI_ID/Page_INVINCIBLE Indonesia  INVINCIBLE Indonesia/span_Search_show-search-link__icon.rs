@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Search_show-search-link__icon</name>
+   <tag></tag>
+   <elementGuidId>3bab8dcc-44e4-4a25-a95a-6acdd6a7fc7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.logo-area__right__inner > a.show-search-link > span.show-search-link__icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pageheader']/div/div[3]/div/a[2]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Search&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f95001e1-615e-4c2e-a007-74202e32410d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>show-search-link__icon</value>
+      <webElementGuid>b6bd8d12-da74-4ef5-b638-4c3eebaead98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pageheader&quot;)/div[@class=&quot;logo-area container container--no-max&quot;]/div[@class=&quot;logo-area__right&quot;]/div[@class=&quot;logo-area__right__inner&quot;]/a[@class=&quot;show-search-link&quot;]/span[@class=&quot;show-search-link__icon&quot;]</value>
+      <webElementGuid>a6b8c154-78c3-482f-9b30-249532bd2a7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pageheader']/div/div[3]/div/a[2]/span[2]</value>
+      <webElementGuid>c0c00870-863b-4e16-9a40-8f1b0795609c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/following::span[1]</value>
+      <webElementGuid>7696fb63-f9d6-4951-b22a-32cd09dee783</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account'])[1]/following::span[3]</value>
+      <webElementGuid>e3bc3da0-503e-435d-8b20-0604407a8173</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cart'])[1]/preceding::span[1]</value>
+      <webElementGuid>8d675174-3278-483e-84c7-4807b51228b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Arrivals'])[2]/preceding::span[4]</value>
+      <webElementGuid>8b6132b0-1ea5-4616-8d59-36d0180e2cd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/span[2]</value>
+      <webElementGuid>b0d8dae4-2c16-434e-83fa-63a1fa27b0a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

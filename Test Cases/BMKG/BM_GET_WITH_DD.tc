@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BM_GET_WITH_DD</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5b0594eb-0f03-4a54-bfac-f8fd280e6a4c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5340ae9f-af59-412b-a9ba-f236f214736d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'501164'</defaultValue>
+      <description></description>
+      <id>5340ae9f-af59-412b-a9ba-f236f214736d</id>
+      <masked>false</masked>
+      <name>ai</name>
+   </variable>
+</TestCaseEntity>

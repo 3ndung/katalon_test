@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check Predefince Schmea</description>
+   <name>CHECK_CRYPTO_05</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b3dc3cc7-5770-411d-ae82-6bcb343f6398</testCaseGuid>
+</TestCaseEntity>

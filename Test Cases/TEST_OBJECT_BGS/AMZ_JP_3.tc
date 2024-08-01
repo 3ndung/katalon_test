@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AMZ_JP_3</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>33045d78-3e43-45c1-9091-dd94527001e1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>66c526c3-707f-464c-a5cd-00fa88659a47</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'nintendo'</defaultValue>
+      <description></description>
+      <id>66c526c3-707f-464c-a5cd-00fa88659a47</id>
+      <masked>false</masked>
+      <name>product</name>
+   </variable>
+</TestCaseEntity>

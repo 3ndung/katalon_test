@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TRAPEL_001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9e0c3a08-36b3-43d2-9a23-6673d9393e8b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b041904f-51dd-4cba-9b2e-582a4021a171</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Tokyo'</defaultValue>
+      <description></description>
+      <id>b041904f-51dd-4cba-9b2e-582a4021a171</id>
+      <masked>false</masked>
+      <name>dest</name>
+   </variable>
+</TestCaseEntity>

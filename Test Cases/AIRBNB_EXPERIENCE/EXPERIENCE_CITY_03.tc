@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EXPERIENCE_CITY_03</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9770141e-3dc1-4228-bf25-23c7a38d4d52</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6aa72b70-eb72-44c8-8ff7-240d447a743a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>39c3ccfe-bf88-4560-8ce4-f15a02968d0c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Tokyo'</defaultValue>
+      <description></description>
+      <id>6aa72b70-eb72-44c8-8ff7-240d447a743a</id>
+      <masked>false</masked>
+      <name>Tujuan</name>
+   </variable>
+   <variable>
+      <defaultValue>'experiences\n'</defaultValue>
+      <description></description>
+      <id>39c3ccfe-bf88-4560-8ce4-f15a02968d0c</id>
+      <masked>false</masked>
+      <name>Jumlah</name>
+   </variable>
+</TestCaseEntity>

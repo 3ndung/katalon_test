@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NEGATIVE_CHASES_BM_01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b2aecfdc-9f88-4e3c-950e-3b5dc2dbc962</testCaseGuid>
+</TestCaseEntity>
